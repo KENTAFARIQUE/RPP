@@ -86,6 +86,8 @@ def main():
 
     #oeiropweireopwr
 
+    #feature11111
+
     # Сортировка по числовому полю (например, по размеру стипендии)
     print("\nСортировка по размеру стипендии:")
     sorted_by_stipend = sort_by_numeric_field(data, 'размер стипендии')
